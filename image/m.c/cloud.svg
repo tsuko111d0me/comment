@@ -1,0 +1,15 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_2670_67" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="120" height="120">
+<rect width="120" height="120" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2670_67)">
+<g opacity="0.3">
+<path d="M120.4 11H83.27C78.19 11 74.08 15.12 74.08 20.19C74.08 25.27 78.2 29.38 83.27 29.38H89.47C94.55 29.38 98.66 33.5 98.66 38.57V38.87C98.66 43.95 94.54 48.06 89.47 48.06H39.04" stroke="#B04554" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M112.71 11H75.58C70.5 11 66.39 15.12 66.39 20.19C66.39 25.27 70.51 29.38 75.58 29.38H81.78C86.86 29.38 90.97 33.5 90.97 38.57V38.87C90.97 43.95 86.85 48.06 81.78 48.06H32" stroke="#B04554" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+<g opacity="0.3">
+<path d="M68.5195 63.6899H105.65C110.73 63.6899 114.84 67.8099 114.84 72.8799C114.84 77.9599 110.72 82.0699 105.65 82.0699H99.4495C94.3695 82.0699 90.2595 86.1899 90.2595 91.2599V91.5599C90.2595 96.6399 94.3795 100.75 99.4495 100.75H149.87" stroke="#B04554" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+<path d="M76.1992 63.6899H113.329C118.409 63.6899 122.519 67.8099 122.519 72.8799C122.519 77.9599 118.399 82.0699 113.329 82.0699H107.129C102.049 82.0699 97.9392 86.1899 97.9392 91.2599V91.5599C97.9392 96.6399 102.059 100.75 107.129 100.75H156.909" stroke="#B04554" stroke-width="2" stroke-miterlimit="10" stroke-linecap="round"/>
+</g>
+</g>
+</svg>
